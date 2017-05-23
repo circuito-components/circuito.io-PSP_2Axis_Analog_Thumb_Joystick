@@ -9,7 +9,8 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define JOYSTICKPSP_PIN_X	A3
+#define JOYSTICKPSP_PIN_Y	A4
 
 // =======================Pin Definitions // ===================================
 
